@@ -88,6 +88,7 @@ public class FxShapes extends Application {
      */
     public static void main(String[] args) {
         launch(args);
+        // Make sense now
     }
 
 }
